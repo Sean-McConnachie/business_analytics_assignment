@@ -2,4 +2,4 @@
  
 This was an assignment for my business analytics class at UoA.
 
-// netlify link
+[The site](https://busan100g-assignment.netlify.app/)
